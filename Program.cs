@@ -9,5 +9,6 @@
 
         Console.WriteLine("Chu vi hiunh chu nhat la: {0}",(width+height)*2);
         Console.WriteLine($"Dien tich hinh chu nhat la {width*height}");
+        Console.WriteLine("Du an giao cho artist");
     }
 }
